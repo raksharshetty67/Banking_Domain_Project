@@ -3,6 +3,11 @@
 # Overview
 The Banking Dashboard Project is a data-driven initiative designed to analyze and visualize customer banking data, including deposits, loans, and account balances. Built using Python with libraries such as Pandas, Matplotlib, Seaborn, SQLAlchemy, and PyMySQL, alongside Power BI for advanced data visualization, this project transforms raw data from an Excel file into a MySQL database and generates both interactive visualizations in Jupyter Notebook and a dynamic, user-friendly dashboard in Power BI. These dashboards present key financial metrics and trends to assist financial analysts, bank managers, and data scientists in making informed decisions.
 
+## 📽️ Video Demo
+
+[▶️ Watch Banking Dashboard Demo](Banking_Domain_project/Banking%20Domain.mp4)
+
+
 # Features
 
 ### Data Ingestion and Database Management
