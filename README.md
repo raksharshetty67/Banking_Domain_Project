@@ -58,21 +58,19 @@
 
 ---
 
-## 📸 Dashboard Previews
+## Dashboard Previews
 
-### 🔹 Loan Analysis Dashboard
-![Loan Analysis Dashboard](./path/to/loan_analysis_dashboard.png)
+### Banking Dashboard Home
+![Banking Dashboard Home](Home.png)
 
-### 🔹 Deposit Analysis Dashboard
-![Deposit Analysis Dashboard](./path/to/deposit_analysis_dashboard.png)
+### Loan Analysis Dashboard
+![Loan Analysis Dashboard](Loan_Analysis.png)
 
-### 🔹 Banking Dashboard Home
-![Banking Dashboard Home](./path/to/home_dashboard.png)
+### Deposit Analysis Dashboard
+![Deposit Analysis Dashboard](Deposit_Analysis.png)
 
-### 🔹 Summary Dashboard
-![Summary Dashboard](./path/to/summary_dashboard.png)
+
+### Summary Dashboard
+![Summary Dashboard](Summary.png)
 
 ---
-
-## 📂 Folder Structure
-
